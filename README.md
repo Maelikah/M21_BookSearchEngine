@@ -15,7 +15,7 @@
 
 </br>
 
-The purpose of this repository is to create a potfolio using REACT. This portfolio will be deployed to Github Pages. 
+The purpose of this repository is to take starter code with a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. 
 
 </br>
 
