@@ -147,6 +147,7 @@ Deployed Application Page:
 - https://create-react-app.dev/docs/deployment/#github-pages
 - https://legacy.reactjs.org/docs/getting-started.html
 - https://coding-boot-camp.github.io/full-stack/mongodb/deploy-with-heroku-and-mongodb-atlas
+- https://graphql.org/graphql-js/mutations-and-input-types/
 
 
 </br>
