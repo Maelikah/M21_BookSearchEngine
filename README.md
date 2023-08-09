@@ -110,6 +110,10 @@ https://github.com/Maelikah/M21_BookSearchEngine
 
 Deployed Application Page:
 
+https://stark-escarpment-86775-43e2df6c5bcd.herokuapp.com/ 
+
+Note: Deployment link is not working, currently reviewing with experts
+
 
 
 ![Screenshot](/assets/screenshot.png)
